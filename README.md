@@ -1,5 +1,5 @@
 # Corpus Description
-The corpus is composed of 38 pieces of news about Film and TV of the culture section from [Chinadaily](https://www.chinadaily.com.cn/culture/filmandtv)), the largest English portal in China. The selected news covers many aspects, including cartoons, film festivals, celebrities, dramas and movie awards, which were released in November 2023.
+The corpus is composed of 38 pieces of news about Film and TV of the culture section from [Chinadaily](https://www.chinadaily.com.cn/culture/filmandtv), the largest English portal in China. The selected news covers many aspects, including cartoons, film festivals, celebrities, dramas and movie awards, which were released in November 2023.
 
 # Target Audience and Intended Use
 The target audience can include linguistic researchers, NLP professionals, language learners, media outlets, and those who are interested in Chinese film and TV culture. From an academic perspective, the corpus can analyze language patterns, linguistic styles, and dialogues. News media can understand how Chinadaily covers cultural events by analyzing the angles, stances, and language choices of the coverage. Language learners can take it as a teaching resource to learn Chinese, understand Chinese screen culture, and improve their reading and writing skills.
